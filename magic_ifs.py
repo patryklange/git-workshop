@@ -32,3 +32,5 @@ while True:
 
     elif answers == 8:
         print("My sources say no")
+    elif answers == 9:
+        print("Something")
